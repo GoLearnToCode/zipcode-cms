@@ -2,6 +2,7 @@
 aha_board: true
 question_board: false
 gallery: false
+public: true
 
 # Custom Sidebar Links to External Sites.
 # ----------------------------------------
