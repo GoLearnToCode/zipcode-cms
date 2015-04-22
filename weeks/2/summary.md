@@ -10,6 +10,10 @@
   * Padding
   * The "Box Model"
   * Normal Flow vs. Floats
+* CSS Selectors
+  * By Element
+  * By ID
+  * By Class
 * CSS Resets 
 
 
