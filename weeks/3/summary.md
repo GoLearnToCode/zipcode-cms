@@ -2,7 +2,6 @@
   * Navigation
   * Headers and Footers
   * Sidebars
-
 * CSS Frameworks
 * Introduction to the Bootstrap framework
 * The Bootstrap Grid System
