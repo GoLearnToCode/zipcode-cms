@@ -1,6 +1,4 @@
-# Due Next Wednesday by 5:59PM
-
-Create another page in your username.github.io project. Create links ("a" tags) on both your original page (index.html) and the new page so that you can go back back and forth between the two pages. For instance, you could have a "home page" and a "contact page", or a "resume" and a "blog".
+Create another page in your profile project. Create links (`<a>` tags) on both your original page (index.html) and the new page so that you can go back back and forth between the two pages. For instance, you could have a "home page" and a "contact page", or a "resume" and a "blog".
 
 Continue building out your site. Your HTML should include:
 
