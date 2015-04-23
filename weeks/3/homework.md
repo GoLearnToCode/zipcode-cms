@@ -1,6 +1,4 @@
-# Due Next Wednesday by 5:59PM
-
-Continue working on your username.github.io project. Modify your index.html page, and add visual styles that apply good design principles, laying out your content according to a standard grid.
+Continue working on your profile project. Modify your `index.html` page, and add visual styles that apply good design principles, laying out your content according to a standard grid.
 
 You should:
 
@@ -17,4 +15,3 @@ You should:
   - Alert
   - Etc.
 
-Commit and sync your changes to your Github account no later than 5:59pm on Wednesday.
