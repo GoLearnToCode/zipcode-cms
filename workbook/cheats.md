@@ -1,5 +1,9 @@
 ## Reference Sheets and HTML/CSS Resources
 
+[Eric Meyer's CSS Reset](reset: http://meyerweb.com/eric/tools/css/reset/reset.css)
+
+[Normalize](http://necolas.github.io/normalize.css/)
+
 [Jeff's Sublime Preferences](https://gist.github.com/JeffCohen/deb00660324495fc0872)
 
 [HTML5 Reference Sheet](http://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
