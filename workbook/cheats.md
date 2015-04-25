@@ -1,6 +1,6 @@
 ## Reference Sheets and HTML/CSS Resources
 
-[Eric Meyer's CSS Reset](reset: http://meyerweb.com/eric/tools/css/reset/reset.css)
+[Eric Meyer's CSS Reset](http://meyerweb.com/eric/tools/css/reset/reset.css)
 
 [Normalize](http://necolas.github.io/normalize.css/)
 
