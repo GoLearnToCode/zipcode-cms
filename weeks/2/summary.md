@@ -14,7 +14,8 @@
   * By Element
   * By ID
   * By Class
-* CSS Resets 
+* CSS Resets
+* [BuyFlix](https://www.evernote.com/shard/s6/sh/996b325d-b15a-4875-a654-2eff76744bf6/9fc6480de5f316a347104935b6baa519)
 
 
 
